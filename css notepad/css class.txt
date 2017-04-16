@@ -1,0 +1,58 @@
+css3 new feature :
+=>
+1)background :
+ =>we can set multiple background  images ,
+=>we can controls position of background,
+
+background-image :url("image1.jpg"),url("image1.jpg"),
+background-size =100 px 200px ,
+background-position:top left ,top right ,top center etc....
+background-repeat :no-repeat,repeat,repeat-x,repeat-y ;
+background-attachment:fixed ,scroll;
+background-color:red; 
+
+
+
+
+Border :
+=>css3 introduce new property to controls border behaviours.
+=>we can set border image,border shadow for any html element
+=>we can make specific corner rounding as per our requirement.
+
+** usage of property **
+border-radius :20px;
+border-top-left-radius:15px;
+border-top-right-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+
+border-shadow:10 px 10px 5px gold,
+border-images:url(borer2.jpg)
+
+short-hand:
+border : 2px solid green ;
+border-width :2px;
+border-style:solid;
+border-color:blue;
+
+
+Q.Text styles in css ?
+=>css3 provides new styling property
+
+**usage **
+text-align:"left/right/center*justify"
+text-shadow:10px 10px 5px red;
+word-spacing:
+letter-spacing:
+word-wrap:break-word/normal 
+text-transform:upperCase/lowerCase/capitalize etc.
+text-decoration:underline / none ;
+
+imp :
+word-wrap:"word-break/normal"
+text-transform:"upperCase/lowerCase/Capitilize"
+
+
+margin :
+=>margin property of css generate space around the html element.
+

@@ -1,0 +1,12 @@
+text-transform:upperCase =>for all text in upperCase
+text-transform:capitilize =>only one latter in upper case
+_________________________________________________
+**to make perticular section rotatable ?
+=>transform :rotate(30deg)
+___________________________________________________
+** to give text shadow ?
+=>text-shadow.
+
+** shadow for section or division **
+=>box-shadow.
+

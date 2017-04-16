@@ -1,0 +1,5 @@
+Css Margin:
+
+=>The CSS margin properties are used to generate  space around elements.
+
+=>the margin property sets the size of white spaces outside the border.

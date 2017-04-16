@@ -1,0 +1,18 @@
+navbar:
+list 
+->list-style:
+->position ,
+->padding and margin 0px;
+->background-color:
+->width:
+->height:50px;
+
+list li
+->float:left,
+->display:block;
+->line-height:50px;
+
+list li a:
+->text-decoration,
+padding:14px 15px;
+font-size; 

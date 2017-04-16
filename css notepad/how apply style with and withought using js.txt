@@ -1,0 +1,10 @@
+Q.how to apply style at runtime with js and withought js ?
+=>
+/*===== withought using js=====*/
+#d:hover{
+  background-color:red;
+}
+
+/*======with using js=====*/
+
+obj.style.backgroundColor="red";

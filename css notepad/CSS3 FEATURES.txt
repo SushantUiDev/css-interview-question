@@ -1,0 +1,11 @@
+Q.What are some of the new features and properties in CSS3?
+Box model
+New Web fonts
+Rounded corners
+Border Images
+Box Shadows, Text Shadows
+New Color schemes (RGBA)
+Transform property
+New Pseudo-classes
+Multi-column layout
+New Gradients

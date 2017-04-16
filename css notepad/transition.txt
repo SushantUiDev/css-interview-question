@@ -1,0 +1,21 @@
+TRANSITION:
+------------------
+=>css introduce another animation property called transition.
+=>it allows us to change style property value smothly over a given duration.
+=>it takes two parameter
+1.property(like width,height etc...)
+2.duration(in sec..)
+
+ex:
+transition:width 2s;(to change single value)
+transition:width 2s,height 4s ;
+
+=>to apply transition propertywe should give hover property value.
+
+#img{
+transition:width 2s,
+}
+
+#img:hover{
+width:400px;
+}

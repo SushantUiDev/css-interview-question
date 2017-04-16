@@ -1,0 +1,2 @@
+Q.What is progressive rendering ?
+=>rendering content for display as soon as possible.

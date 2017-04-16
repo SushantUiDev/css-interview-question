@@ -1,0 +1,31 @@
+Position
+
+static:
+=>HTML elements are positioned static by default.
+=>this element are not affected by top,bottom,left,right properties.
+=>this element always position according to normal page flow. 
+
+Fixed
+=>an html element wit position:fixed ,is position relative to its viewport.
+=>it will always stay in the same place even we scroll page.
+=>we can give top,right,bottom,height property;
+=>it does not leave gap,where we place it,it will overlap.
+
+
+Relative:
+=>An element with position:relative,is positioned relative to it's normal position;
+=>leave gap;
+=>if we set property like top,bottom it will adjust  according to its normal position;
+         and other element will not adjust in that empty  gap
+
+Absolute
+=>an element with position absolute,positioned relative to its ancestors.
+=>if absolute element not have ancestors then it uses document body and move along with page scroll;
+
+Q.What does z-index do? 
+
+The z-index property specifies the stack order of an element.
+
+An element with greater stack order is always in front of an element with a lower stack order.
+
+Here is the Example, where using z-index property you can display in front of image.

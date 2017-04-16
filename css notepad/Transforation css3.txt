@@ -1,0 +1,23 @@
+Transformation:
+=>A transformation is an effect that will change shape,size and position of an html lement.
+ 
+
+2D transform :
+1.rotate:
+=>transform : rotate(30deg);
+
+2.translate:change position 
+=>transform:translate(20px;30px)  (l and r /t and b)
+
+3.Scale :it will change height and width of original html element,
+=>transform:scale(1.5,1.5);
+
+4.screw:it will rotate in two degree
+=>transform : (30deg ,60deg);
+
+
+3D Transform:
+=>property:
+transform:rotateX(30deg)
+transform:rotateY(60deg)
+transform:rotateZ(90deg)
